@@ -1,4 +1,4 @@
-# Flappy Bird Clone
+# Flappy Bird Clon
 Unity 2020.3.25f1
 
 
